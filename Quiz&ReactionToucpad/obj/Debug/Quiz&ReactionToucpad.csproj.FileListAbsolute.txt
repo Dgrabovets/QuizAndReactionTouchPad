@@ -1,0 +1,57 @@
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionToucpad\Quiz&ReactionToucpad\bin\Debug\Quiz&ReactionToucpad.exe.config
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionToucpad\Quiz&ReactionToucpad\bin\Debug\Quiz&ReactionToucpad.exe
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionToucpad\Quiz&ReactionToucpad\bin\Debug\Quiz&ReactionToucpad.pdb
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionToucpad\Quiz&ReactionToucpad\obj\Debug\Quiz&ReactionToucpad.csproj.AssemblyReference.cache
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionToucpad\Quiz&ReactionToucpad\obj\Debug\Quiz_ReactionToucpad.OpenningForm.resources
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionToucpad\Quiz&ReactionToucpad\obj\Debug\Quiz_ReactionToucpad.Properties.Resources.resources
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionToucpad\Quiz&ReactionToucpad\obj\Debug\Quiz&ReactionToucpad.csproj.GenerateResource.cache
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionToucpad\Quiz&ReactionToucpad\obj\Debug\Quiz&ReactionToucpad.csproj.CoreCompileInputs.cache
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionToucpad\Quiz&ReactionToucpad\obj\Debug\Quiz&ReactionToucpad.exe
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionToucpad\Quiz&ReactionToucpad\obj\Debug\Quiz&ReactionToucpad.pdb
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionToucpad\Quiz&ReactionToucpad\obj\Debug\Quiz_ReactionToucpad.ReactionForm.resources
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionToucpad\Quiz&ReactionToucpad\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionToucpad\Quiz&ReactionToucpad\obj\Debug\Quiz&Rea.75559230.Up2Date
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionToucpad\Quiz&ReactionToucpad\obj\Debug\Quiz_ReactionToucpad.QuizForm.resources
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\bin\Debug\Quiz&ReactionToucpad.exe.config
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\bin\Debug\Quiz&ReactionToucpad.exe
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\bin\Debug\Quiz&ReactionToucpad.pdb
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\obj\Debug\Quiz&ReactionToucpad.csproj.AssemblyReference.cache
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\obj\Debug\Quiz_ReactionToucpad.OpenningForm.resources
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\obj\Debug\Quiz_ReactionToucpad.Properties.Resources.resources
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\obj\Debug\Quiz_ReactionToucpad.QuizForm.resources
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\obj\Debug\Quiz_ReactionToucpad.ReactionForm.resources
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\obj\Debug\Quiz&ReactionToucpad.csproj.GenerateResource.cache
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\obj\Debug\Quiz&ReactionToucpad.csproj.CoreCompileInputs.cache
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\obj\Debug\Quiz&Rea.75559230.Up2Date
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\obj\Debug\Quiz&ReactionToucpad.exe
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\obj\Debug\Quiz&ReactionToucpad.pdb
+C:\Даня Любимка (НЕ УДАЛЯТЬ)\Рабочие проекты\Quiz&ReactionTouchpad\ProjectFolder\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\bin\Debug\Quiz&ReactionToucpad.exe.config
+C:\Даня Любимка (НЕ УДАЛЯТЬ)\Рабочие проекты\Quiz&ReactionTouchpad\ProjectFolder\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\bin\Debug\Quiz&ReactionToucpad.exe
+C:\Даня Любимка (НЕ УДАЛЯТЬ)\Рабочие проекты\Quiz&ReactionTouchpad\ProjectFolder\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\bin\Debug\Quiz&ReactionToucpad.pdb
+C:\Даня Любимка (НЕ УДАЛЯТЬ)\Рабочие проекты\Quiz&ReactionTouchpad\ProjectFolder\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\bin\Debug\AxInterop.WMPLib.dll
+C:\Даня Любимка (НЕ УДАЛЯТЬ)\Рабочие проекты\Quiz&ReactionTouchpad\ProjectFolder\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\obj\Debug\Quiz&ReactionToucpad.csproj.AssemblyReference.cache
+C:\Даня Любимка (НЕ УДАЛЯТЬ)\Рабочие проекты\Quiz&ReactionTouchpad\ProjectFolder\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\obj\Debug\Quiz_ReactionToucpad.OpenningForm.resources
+C:\Даня Любимка (НЕ УДАЛЯТЬ)\Рабочие проекты\Quiz&ReactionTouchpad\ProjectFolder\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\obj\Debug\Quiz_ReactionToucpad.Properties.Resources.resources
+C:\Даня Любимка (НЕ УДАЛЯТЬ)\Рабочие проекты\Quiz&ReactionTouchpad\ProjectFolder\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\obj\Debug\Quiz_ReactionToucpad.QuizForm.resources
+C:\Даня Любимка (НЕ УДАЛЯТЬ)\Рабочие проекты\Quiz&ReactionTouchpad\ProjectFolder\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\obj\Debug\Quiz_ReactionToucpad.ReactionForm.resources
+C:\Даня Любимка (НЕ УДАЛЯТЬ)\Рабочие проекты\Quiz&ReactionTouchpad\ProjectFolder\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\obj\Debug\Quiz&ReactionToucpad.csproj.GenerateResource.cache
+C:\Даня Любимка (НЕ УДАЛЯТЬ)\Рабочие проекты\Quiz&ReactionTouchpad\ProjectFolder\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\obj\Debug\Quiz&ReactionToucpad.csproj.CoreCompileInputs.cache
+C:\Даня Любимка (НЕ УДАЛЯТЬ)\Рабочие проекты\Quiz&ReactionTouchpad\ProjectFolder\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\obj\Debug\Quiz&Rea.75559230.Up2Date
+C:\Даня Любимка (НЕ УДАЛЯТЬ)\Рабочие проекты\Quiz&ReactionTouchpad\ProjectFolder\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\obj\Debug\Quiz&ReactionToucpad.exe
+C:\Даня Любимка (НЕ УДАЛЯТЬ)\Рабочие проекты\Quiz&ReactionTouchpad\ProjectFolder\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\obj\Debug\Quiz&ReactionToucpad.pdb
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionTouchpad\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\bin\Debug\Quiz&ReactionToucpad.exe.config
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionTouchpad\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\bin\Debug\Quiz&ReactionToucpad.exe
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionTouchpad\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\bin\Debug\Quiz&ReactionToucpad.pdb
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionTouchpad\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionTouchpad\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\obj\Debug\Quiz&ReactionToucpad.csproj.AssemblyReference.cache
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionTouchpad\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\obj\Debug\Quiz_ReactionToucpad.OpenningForm.resources
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionTouchpad\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\obj\Debug\Quiz_ReactionToucpad.Properties.Resources.resources
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionTouchpad\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\obj\Debug\Quiz_ReactionToucpad.QuizForm.resources
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionTouchpad\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\obj\Debug\Quiz_ReactionToucpad.ReactionForm.resources
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionTouchpad\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\obj\Debug\Quiz&ReactionToucpad.csproj.GenerateResource.cache
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionTouchpad\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\obj\Debug\Quiz&ReactionToucpad.csproj.CoreCompileInputs.cache
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionTouchpad\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\obj\Debug\Quiz&Rea.75559230.Up2Date
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionTouchpad\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\obj\Debug\Quiz&ReactionToucpad.exe
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionTouchpad\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\obj\Debug\Quiz&ReactionToucpad.pdb
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionTouchpad\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\obj\Debug\Quiz_ReactionToucpad.ReactionEntryForm.resources

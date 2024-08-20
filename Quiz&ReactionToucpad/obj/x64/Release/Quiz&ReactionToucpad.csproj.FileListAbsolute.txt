@@ -1,0 +1,14 @@
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionTouchpad\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\bin\x64\Release\Quiz&ReactionToucpad.exe.config
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionTouchpad\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\bin\x64\Release\Quiz&ReactionToucpad.exe
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionTouchpad\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\bin\x64\Release\Quiz&ReactionToucpad.pdb
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionTouchpad\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\bin\x64\Release\AxInterop.WMPLib.dll
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionTouchpad\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\obj\x64\Release\Quiz&ReactionToucpad.csproj.AssemblyReference.cache
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionTouchpad\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\obj\x64\Release\Quiz_ReactionToucpad.OpenningForm.resources
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionTouchpad\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\obj\x64\Release\Quiz_ReactionToucpad.Properties.Resources.resources
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionTouchpad\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\obj\x64\Release\Quiz_ReactionToucpad.QuizForm.resources
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionTouchpad\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\obj\x64\Release\Quiz_ReactionToucpad.ReactionForm.resources
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionTouchpad\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\obj\x64\Release\Quiz&ReactionToucpad.csproj.GenerateResource.cache
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionTouchpad\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\obj\x64\Release\Quiz&ReactionToucpad.csproj.CoreCompileInputs.cache
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionTouchpad\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\obj\x64\Release\Quiz&Rea.75559230.Up2Date
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionTouchpad\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\obj\x64\Release\Quiz&ReactionToucpad.exe
+C:\Users\grdan\Desktop\Работа\Quiz&ReactionTouchpad\Quiz&ReactionTouchpad\Quiz&ReactionToucpad\obj\x64\Release\Quiz&ReactionToucpad.pdb

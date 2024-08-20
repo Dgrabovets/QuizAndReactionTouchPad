@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quiz&ReactionToucpad", "Quiz&ReactionToucpad\Quiz&ReactionToucpad.csproj", "{4C7EFE73-A8E1-4D78-907B-4E148DCE44E2}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Installer", "Installer\Installer.vdproj", "{7F6A4460-56F1-4C9E-B5D7-EA7071DE9EA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C7EFE73-A8E1-4D78-907B-4E148DCE44E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C7EFE73-A8E1-4D78-907B-4E148DCE44E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C7EFE73-A8E1-4D78-907B-4E148DCE44E2}.Release|Any CPU.ActiveCfg = Release|x64
+		{4C7EFE73-A8E1-4D78-907B-4E148DCE44E2}.Release|Any CPU.Build.0 = Release|x64
+		{7F6A4460-56F1-4C9E-B5D7-EA7071DE9EA4}.Debug|Any CPU.ActiveCfg = Debug
+		{7F6A4460-56F1-4C9E-B5D7-EA7071DE9EA4}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C55DEEC-7999-4A73-A290-33F66A0BD724}
+	EndGlobalSection
+EndGlobal
